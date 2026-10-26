@@ -71,41 +71,201 @@
 
 ---
 
-### 🛰️ Featured Technical Systems
+### 🛰️ `shreyas@github-macbook-pro ~ $ ./featured-projects.sh --verbose`
 
-#### **1. IGNISSENSE — AI-Enabled GIS Platform for Thermal-Anomaly Detection**
-> **Event:** Smart India Hackathon 2026  
-> **Stack:** Python • XGBoost • MongoDB `2dsphere` • NASA FIRMS (VIIRS/MODIS) • React 19 • MapLibre GL  
-> **Architecture:** Ingests live NASA FIRMS satellite data streams, reconciling sensor discrepancies and deduplicating records via MongoDB `2dsphere` spatial-temporal indexes. Features a 14-feature vector classifier sorting events across 6 distinct thermal classes paired with a real-time monitoring dashboard.
+#### FIG. 1
+<table width="100%">
+  <tr>
+    <td bgcolor="#0d1117">
+      <div align="right">
+        <a href="https://github.com/krishnasharma1493/NAZAR"><b><code>repo ↗</code></b></a>
+      </div>
+      <h2>👁️ NAZAR <font color="#bc8cff"><code>— Finalist</code></font></h2>
+      <p>Nari Kavach 2026 • IEEE WIE, University of Delhi</p>
+      <hr />
+      <table>
+        <tr>
+          <td width="55%">
+            <p><b>Firmware & Signal Analytics:</b></p>
+            <ul>
+              <li>Dual-core ESP32 firmware (C++/FreeRTOS) sniffing 2,000 pkts/s.</li>
+              <li>Modulated torch m-sequence (~12 dB processing gain).</li>
+              <li>FFT cross-correlation & rank transformation engines.</li>
+              <li>2,000-surrogate permutation test (p < 0.01) proving causality.</li>
+            </ul>
+          </td>
+          <td width="45%">
+            <p><font color="#ff7b72"><b>Problem.</b></font> Hidden cameras in rented rooms stream over encrypted Wi-Fi, so you can't read their traffic to find them.</p>
+            <p><font color="#7ee787"><b>Solution.</b></font> Flash a coded light pattern at the room. A camera that sees it shifts its bitrate, and a cheap Wi-Fi chip catches the rhythm in packet timing.</p>
+          </td>
+        </tr>
+      </table>
+      <p><b>code by language:</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-74%25-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-20%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/C%2B%2B-3%25-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS/HTML-3%25-E34F26?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-#### **2. Nyaya-Sahayak — Multimodal RAG Platform for Legal Advisory**
-> **Event:** GeeksforGeeks Hackathon *(Top 15)*  
-> **Stack:** Django REST • React 19 • Gemini 1.5 Pro • Vertex AI Search • Docker • Google Cloud Run  
-> **Architecture:** Led a 5-member team engineering a dual-stream hybrid RAG pipeline combining statutory acts (IPC, CrPC, CPA) with live procedural web actions. Enforces zero-hallucination guardrails via IRAC prompting, SSE streaming, and section-level citations.
+<br />
 
-#### **3. NAZAR — Hidden Wi-Fi Camera Detector**
-> **Event:** Nari Kavach Hackathon *(Finalist)*  
-> **Stack:** ESP32 (C++/FreeRTOS) • Python • Scipy • Hardware Lock-in Amplifier  
-> **Architecture:** Phone-guided cyber-physical system detecting hidden wireless cameras by proving optical-to-RF causality. Dual-core ESP32 sniffs raw 802.11 headers at 2,000 pkts/s, correlating modulated optical signals using FFT cross-correlation and permutation tests ($p < 0.01$).
+#### FIG. 2
+<table width="100%">
+  <tr>
+    <td bgcolor="#0d1117">
+      <div align="right">
+        <a href="https://github.com/krishnasharma1493/IGNISSENSE"><b><code>repo ↗</code></b></a>
+      </div>
+      <h2>🔥 IGNISSENSE <font color="#00FF66"><code>— 0.55 macro-F1</code></font></h2>
+      <p>Smart India Hackathon 2026</p>
+      <hr />
+      <table>
+        <tr>
+          <td width="55%">
+            <p><b>Pipeline & Analytics Telemetry:</b></p>
+            <ul>
+              <li>Ingests NASA FIRMS live satellite feeds (VIIRS/MODIS).</li>
+              <li>Deduplicates records with MongoDB <code>2dsphere</code> spatial indexing.</li>
+              <li>14-feature classification vector built over 3°×3° OpenStreetMap tiles.</li>
+              <li>XGBoost classifier sorting 6 thermal anomaly classes.</li>
+            </ul>
+          </td>
+          <td width="45%">
+            <p><font color="#ff7b72"><b>Problem.</b></font> Satellites flag thousands of heat spots across India but can't tell a wildfire from crop burning or a factory flare.</p>
+            <p><font color="#7ee787"><b>Solution.</b></font> Join each alert with 341k mapped facilities and land use, then let a gradient-boosted model say what's really burning.</p>
+          </td>
+        </tr>
+      </table>
+      <p><b>code by language:</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-81%25-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-14%25-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS/HTML-4%25-E34F26?style=flat-square" />
+        <img src="https://img.shields.io/badge/JavaScript-1%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-#### **4. CredDost — Agentic AI Personal Loan Sales Engine**
-> **Event:** EY Techathon 6.0 BFSI Challenge  
-> **Stack:** Python • Agentic AI Frameworks • Express.js • MySQL  
-> **Architecture:** Autonomous BFSI conversational platform engineered to qualify user credit profiles, process dynamic risk metrics, and deliver intelligent multi-turn loan recommendations.
+<br />
+
+#### FIG. 3
+<table width="100%">
+  <tr>
+    <td bgcolor="#0d1117">
+      <div align="right">
+        <a href="https://github.com/krishnasharma1493/Nyaya-Sahayak-Core"><b><code>repo ↗</code></b></a>
+      </div>
+      <h2>⚖️ Nyaya-Sahayak <font color="#58a6ff"><code>— Top 15</code></font></h2>
+      <p>Hack-4-Viksit Bharat • GeeksforGeeks × Google Cloud</p>
+      <hr />
+      <table>
+        <tr>
+          <td width="55%">
+            <p><b>Architecture & Guardrails:</b></p>
+            <ul>
+              <li>Dual-stream RAG combining statutory acts with web search.</li>
+              <li>Gemini 1.5 Pro zero-hallucination IRAC prompting.</li>
+              <li>Django REST APIs with Server-Sent Events (SSE) streaming.</li>
+              <li>Containerized with Docker & deployed on Google Cloud Run.</li>
+            </ul>
+          </td>
+          <td width="45%">
+            <p><font color="#ff7b72"><b>Problem.</b></font> Most people can't afford a lawyer just to learn which law applies to their problem.</p>
+            <p><font color="#7ee787"><b>Solution.</b></font> Describe it by voice, photo or text and get the exact sections of Indian law plus a cited first-draft petition.</p>
+          </td>
+        </tr>
+      </table>
+      <p><b>code by language:</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/CSS/HTML-42%25-E34F26?style=flat-square" />
+        <img src="https://img.shields.io/badge/JavaScript-35%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Python-23%25-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+#### FIG. 4
+<table width="100%">
+  <tr>
+    <td bgcolor="#0d1117">
+      <div align="right">
+        <a href="https://github.com/krishnasharma1493/multi-ocular-disease-detection"><b><code>repo ↗</code></b></a>
+      </div>
+      <h2>👁️ Multi-Ocular <font color="#79c0ff"><code>— 4 diseases, 1 photo</code></font></h2>
+      <p>Retinal screening research prototype • not a medical device</p>
+      <hr />
+      <table>
+        <tr>
+          <td width="55%">
+            <p><b>Computer Vision & Architecture:</b></p>
+            <ul>
+              <li>PyTorch EfficientNet-B0 backbone for multi-label classification.</li>
+              <li>Masked loss functions designed to manage unlabelled conditions.</li>
+              <li>Interactive web deployment interface built with Gradio.</li>
+              <li>Optimized feature maps for low-latency clinical edge screening.</li>
+            </ul>
+          </td>
+          <td width="45%">
+            <p><font color="#ff7b72"><b>Problem.</b></font> One eye photo can show several diseases, but most screening models look for only one.</p>
+            <p><font color="#7ee787"><b>Solution.</b></font> One model checks a retinal photo for myopia, cataract, glaucoma and diabetic retinopathy at once.</p>
+          </td>
+        </tr>
+      </table>
+      <p><b>code by language:</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-100%25-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+#### FIG. 5
+<table width="100%">
+  <tr>
+    <td bgcolor="#0d1117">
+      <div align="right">
+        <a href="https://github.com/shreyassingh21/smart-itinerary-planner"><b><code>repo ↗</code></b></a>
+      </div>
+      <h2>🗺️ Smart Itinerary Planner <font color="#f0883e"><code>— Algorithmic Route Optimizer</code></font></h2>
+      <p>Analysis & Design of Algorithms Coursework Project</p>
+      <hr />
+      <table>
+        <tr>
+          <td width="55%">
+            <p><b>Graph Theory & Optimization:</b></p>
+            <ul>
+              <li>Custom graph algorithms implemented from scratch for path optimization.</li>
+              <li>Dynamic time-window constraint satisfaction for tourist routing.</li>
+              <li>Time and space complexity evaluations under dense nodes.</li>
+              <li>Interactive UI mapping routes with optimal travel intervals.</li>
+            </ul>
+          </td>
+          <td width="45%">
+            <p><font color="#ff7b72"><b>Problem.</b></font> Multi-destination trip planning requires solving NP-hard routing problems under tight schedule constraints.</p>
+            <p><font color="#7ee787"><b>Solution.</b></font> Applied advanced algorithmic graph models to automatically compute optimal daily travel trajectories and POI sequences.</p>
+          </td>
+        </tr>
+      </table>
+      <p><b>code by language:</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-85%25-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-15%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🏆 Honors, Hackathons & Milestones
-
-* 🎓 **Dual Degree Track:** Simultaneously pursuing a BS in Data Science & Applications at IIT Madras (8.25 CGPA).
-* 🛰️ **Smart India Hackathon 2026:** Qualified Internal Hackathon for satellite-based thermal anomaly & industrial fire mitigation architecture.
-* ⚖️ **GeeksforGeeks Hackathon (Top 15):** Awarded Top 15 team for multimodal IRAC legal RAG platform (*Nyaya-Sahayak*).
-* 🔒 **Nari Kavach Hackathon (Finalist):** Finalist selection for cyber-physical optical-to-RF hardware detector (*NAZAR*).
-
----
-
-<div align="center">
-
-**[ 🌐 Portfolio ]** &nbsp;•&nbsp; **[ 💼 LinkedIn ]** &nbsp;•&nbsp; **[ ✉️ Email ]**
-
-</div>
+```ansi
+shreyas@github ~ $ cat achievements.log
