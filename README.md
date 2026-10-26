@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **singh-shreyas/singh-shreyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+
+```ansi
+[36mshreyas@github-macbook-pro[0m ~ [32m$ ./initialize-profile.sh --verbose[0m
