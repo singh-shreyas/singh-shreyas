@@ -13,7 +13,7 @@
 
 | Attribute | Details |
 | :--- | :--- |
-| **Institution 01** | **B.Tech Computer Science & Engineering**, University of Delhi *(9.45 CGPA, University Topper)* |
+| **Institution 01** | **B.Tech Computer Science & Engineering**, University of Delhi *(9.32 CGPA)* |
 | **Institution 02** | **BS Data Science & Applications**, IIT Madras *(8.25 CGPA)* |
 | **Current Focus** | High-performance full-stack architectures, spatial indexing engines, & Agentic AI |
 | **Environment** | macOS (MacBook Pro), MySQL Workbench, DBeaver |
