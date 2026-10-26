@@ -267,5 +267,25 @@
 
 ---
 
-```ansi
-shreyas@github ~ $ cat achievements.log
+### 🏆 Honors & Hackathon Achievements
+
+* 🔒 **Finalist — Nari Kavach 2026 (Women Safety Innovation Challenge):** Recognized by IEEE Women in Engineering, University of Delhi, for engineering *NAZAR* (covert optical-to-RF Wi-Fi camera detection system).
+* ⚖️ **Top 15 Team — Hack-4-Viksit Bharat:** Awarded Top 15 nationwide by GeeksforGeeks, Google Cloud, and SISL Infotech for building *Nyaya-Sahayak* (multimodal legal statutory first-responder RAG engine).
+* 🛰️ **Selected Team — Smart India Hackathon (SIH) 2026:** Shortlisted for PS 26162 (Thermal Anomaly Classification) with *IGNISSENSE* GIS satellite engine.
+* 🧭 **Selected Team — Smart India Hackathon (SIH) 2025:** Selected with *Team CareerKrafters* for PS 25094 (Build a centralized web and mobile guidance application helping Class 10/12 students navigate streams, entrance exams, and career roadmaps).
+
+---
+
+### 🤝 Leadership, Experience & Community Impact
+
+* 📌 **Student Coordinator — Training & Placement Cell (TPC), Faculty of Technology, University of Delhi:** Part of the LinkedIn Outreach and corporate relations team, connecting alumni and industry leaders with campus recruitment drives and placement opportunities.
+* 🏆 **Sports Vice Captain — Sanskriti School Student Council:** Co-managed and led inter-house and inter-school athletic tournaments, supporting sports faculty operations, practice coordination, and team leadership.
+* 🤝 **Volunteering & Social Impact Initiatives:** Deeply committed to social welfare campaigns over multi-year engagements—contributed to underprivileged child education with *Maan The Value Foundation* (including the *Roshni* campaign), authored primary-grade educational worksheets for rural students with *Manjari Foundation*, advocated for youth welfare and awareness via *UNICEF*, and assisted elderly residents and event logistics with *HelpAge India*.
+
+---
+
+<div align="center">
+
+**[ 🌐 Portfolio ]** &nbsp;•&nbsp; **[ 💼 LinkedIn ]** &nbsp;•&nbsp; **[ ✉️ Email ]**
+
+</div>
