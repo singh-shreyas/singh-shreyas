@@ -97,9 +97,8 @@
 
 ### 🏆 Honors, Hackathons & Milestones
 
-* 🥇 **DU University Topper:** Achieved 9.45 CGPA in 1st year B.Tech Computer Science & Engineering at the University of Delhi.
 * 🎓 **Dual Degree Track:** Simultaneously pursuing a BS in Data Science & Applications at IIT Madras (8.25 CGPA).
-* 🛰️ **Smart India Hackathon 2026:** Finalist for satellite-based thermal anomaly & industrial fire mitigation architecture.
+* 🛰️ **Smart India Hackathon 2026:** Qualified Internal Hackathon for satellite-based thermal anomaly & industrial fire mitigation architecture.
 * ⚖️ **GeeksforGeeks Hackathon (Top 15):** Awarded Top 15 team for multimodal IRAC legal RAG platform (*Nyaya-Sahayak*).
 * 🔒 **Nari Kavach Hackathon (Finalist):** Finalist selection for cyber-physical optical-to-RF hardware detector (*NAZAR*).
 
